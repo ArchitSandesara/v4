@@ -56,14 +56,14 @@ const StyledPic = styled.div`
   ${media.phablet`width: 70%;`};
   a {
     &:focus {
-      outline: 0;
+      outline: 1;
     }
   }
 `;
 const StyledAvatar = styled(Img)`
   position: relative;
   mix-blend-mode: multiply;
-  filter: grayscale(100%) contrast(1);
+  filter: grayscale(0%) contrast(1.3);
   border-radius: ${theme.borderRadius};
   transition: ${theme.transition};
 `;
@@ -72,18 +72,18 @@ const StyledAvatarLink = styled.a`
   width: 100%;
   position: relative;
   border-radius: ${theme.borderRadius};
-  background-color: ${colors.green};
+  background-color: white;
   margin-left: -20px;
   &:hover,
   &:focus {
-    background: transparent;
+    background: ${colors.green};
     &:after {
       top: 15px;
       left: 15px;
     }
     ${StyledAvatar} {
-      filter: none;
-      mix-blend-mode: normal;
+      filter: grayscale(100%) contrast(1);
+      mix-blend-mode: multiply;
     }
   }
   &:before,

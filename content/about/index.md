@@ -2,22 +2,17 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Node.js
-  - C#
-  - Java
-  - Python
-  - Web API
-  - Android SDK
-  - Agile Methodologies
+  - Computer Programming and Coding
+  - Software Development Fundamentals & process
+  - Object-oriented Design OOD
+  - Software Testing and debugging
+  - Software Documentation
+  - Agile Development Methodologies and Principles
+  - Problem-solving and logical thinking
+  - Written and verbal communication
+  - Teamwork
+  - Ability to learn quickly
+  - Continuous Integration and Continuous Delivery CI/CD
 ---
 
-Hello! I'm Archit, a Software Engineer based in Canada.
-
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
-
-Shortly after graduating from [Lambton College](https://www.lambtoncollege.ca/), I joined the engineering team at [RBC](https://www.rbcroyalbank.com/personal.html) where I work on a wide variety of interesting and meaningful projects on a daily basis.
-
-Here are a few technologies I've been working with recently:
+SKILLS:

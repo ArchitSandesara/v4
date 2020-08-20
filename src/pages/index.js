@@ -39,6 +39,7 @@ export const pageQuery = graphql`
             name
             subtitle
             buttonText
+            skills
           }
           html
         }

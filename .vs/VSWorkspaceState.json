@@ -1,5 +1,14 @@
 {
-  "ExpandedNodes": ["", "\\src", "\\src\\pages"],
-  "SelectedNode": "\\src\\pages\\404.js",
+  "ExpandedNodes": [
+    "",
+    "\\content",
+    "\\content\\hero",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\sections",
+    "\\src\\pages",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }

@@ -30,19 +30,20 @@ const StyledTitle = styled.h2`
   line-height: 1.1;
   margin: 0;
   ${media.desktop`font-size: 70px;`};
-  ${media.tablet`font-size: 60px;`};
-  ${media.phablet`font-size: 50px;`};
-  ${media.phone`font-size: 40px;`};
+  ${media.tablet`font-size: 50px;`};
+  ${media.phablet`font-size: 40px;`};
+  ${media.phone`font-size: 30px;`};
 `;
 const StyledSubtitle = styled.h3`
-  font-size: 80px;
+  font-size: 30px;
   line-height: 1.1;
   color: ${colors.slate};
-  ${media.desktop`font-size: 70px;`};
-  ${media.tablet`font-size: 60px;`};
-  ${media.phablet`font-size: 50px;`};
-  ${media.phone`font-size: 40px;`};
+  ${media.desktop`font-size: 30px;`};
+  ${media.tablet`font-size: 25px;`};
+  ${media.phablet`font-size: 17px;`};
+  ${media.phone`font-size: 17px;`};
 `;
+
 const StyledDescription = styled.div`
   margin-top: 25px;
   width: 50%;
@@ -51,20 +52,20 @@ const StyledDescription = styled.div`
     ${mixins.inlineLink};
   }
 `;
+
 const StyledEmailLink = styled.a`
   ${mixins.bigButton};
   margin-top: 50px;
 `;
 
 const Hero = ({ data }) => {
-  const [isMounted, setIsMounted] = useState(false);
+  const { frontmatter, html } = data[0].node;
 
+  const [isMounted, setIsMounted] = useState(false);
   useEffect(() => {
     const timeout = setTimeout(() => setIsMounted(true), navDelay);
     return () => clearTimeout(timeout);
   }, []);
-
-  const { frontmatter, html } = data[0].node;
 
   const one = () => (
     <StyledOverline style={{ transitionDelay: '100ms' }}>{frontmatter.title}</StyledOverline>
@@ -81,6 +82,7 @@ const Hero = ({ data }) => {
       dangerouslySetInnerHTML={{ __html: html }}
     />
   );
+
   const five = () => (
     <div style={{ transitionDelay: '500ms' }}>
       <StyledEmailLink href={`mailto:${email}`}>Get In Touch</StyledEmailLink>

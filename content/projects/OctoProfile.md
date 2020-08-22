@@ -1,12 +1,17 @@
 ---
 date: '2019-07-15'
-title: 'OctoProfile'
+title: 'Data Analytics and Governance'
 github: 'https://github.com/bchiang7/octoprofile'
 external: 'https://octoprofile.now.sh'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Node.js
+  - React.js
+  - Express.js
+  - ElasticSearch
+  - Visual Studio
+  - Ant Design
+  - Git
+  - GitHub
 showInProjects: false
 ---
 

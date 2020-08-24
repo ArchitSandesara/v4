@@ -3,14 +3,14 @@
     "",
     "\\content",
     "\\content\\featured",
-    "\\content\\featured\\DAGPortal",
     "\\content\\featured\\ecwNC",
-    "\\content\\featured\\HalcyonTheme",
-    "\\content\\jobs\\RBC",
+    "\\content\\featured\\healow",
     "\\src",
+    "\\src\\components",
+    "\\src\\components\\sections",
     "\\src\\pages",
     "\\src\\styles"
   ],
-  "SelectedNode": "\\content\\featured\\HalcyonTheme",
+  "SelectedNode": "\\src\\components\\sections\\jobs.js",
   "PreviewInSolutionExplorer": false
 }

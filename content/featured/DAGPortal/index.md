@@ -7,11 +7,15 @@ external: ''
 tech:
   - Node.js
   - React
+  - JavaScript
   - Express
   - HTML
   - CSS
   - GraphQL
   - ElasticSearch
+  - Agile
+  - Jira
+  - Scrum
   - Git / GitHub
   - Ant Design
 showInProjects: true

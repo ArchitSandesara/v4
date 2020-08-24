@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'eCW National User Conference 2016'
+title: 'eClinicalWorks NC'
 cover: './ecwNC.jpg'
 github: ''
 external: 'https://apkpure.com/eclinicalworks-nc/com.ecw.architsandesara.nc2016'
@@ -9,9 +9,16 @@ tech:
   - Java
   - Kotlin
   - SQL
-  - REST API
   - GCP
-  - MVC MVVM MVP
+  - Agile
+  - Firebase
+  - RESTful APIs
+  - Jira
+  - Scrum
+  - MVC
+  - MVVM
+  - MVP
+  - Espresso
   - Git / Github
 showInProjects: true
 ---

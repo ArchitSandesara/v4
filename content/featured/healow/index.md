@@ -1,16 +1,11 @@
 ---
 date: '1'
 title: 'healow'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+cover: './healow.jpg'
+github: ''
+external: 'https://play.google.com/store/apps/details?id=com.ecw.healow&hl=en_US'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
 showInProjects: true
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+healow lets you communicate with your doctor's office and access up to date medical records. You will be able to access your appointments, lab results, vitals, manage medications and other personal data all within one app. From the healow app you can manage multiple accounts and access your and your family's medical information.

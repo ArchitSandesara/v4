@@ -1,18 +1,18 @@
 module.exports = {
   siteTitle: 'Archit Sandesara | Software Engineer',
   siteDescription:
-    'Archit Sandesara is a software engineer based in Toronto, ON who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Archit Sandesara is a Software Engineer with industry experience building large scale websites, web and mobile applications. Feel free to take a look at my work or get in touch!',
   siteKeywords:
-    'Archit Sandesara, Archit, Sandesara, aps, ArchitSandesara, archit-sandesara, software engineer, front-end engineer, back-end engineer, full-stack engineer, web developer, javascript, northeastern',
+    'Archit Sandesara, Archit, Sandesara, aps, ArchitSandesara, archit-sandesara, software engineer, front-end engineer, back-end engineer, full-stack engineer, web developer, android developer, android engineer, senior android developer, javascript, northeastern',
   siteUrl: 'https://architsandesara.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
   name: 'Archit Sandesara',
-  location: 'Toronto, ON',
+  location: 'Canada',
   email: 'sandesara.archit@gmail.com',
   github: 'https://github.com/ArchitSandesara',
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@architsandesara',
   socialMedia: [
     {
       name: 'GitHub',

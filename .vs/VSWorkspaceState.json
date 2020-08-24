@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\featured",
     "\\content\\featured\\ecwNC",
     "\\content\\featured\\healow",
+    "\\content\\projects",
     "\\src",
     "\\src\\components",
     "\\src\\components\\sections",
     "\\src\\pages",
     "\\src\\styles"
   ],
-  "SelectedNode": "\\src\\components\\sections\\jobs.js",
+  "SelectedNode": "\\content\\projects\\MongoReact.md",
   "PreviewInSolutionExplorer": false
 }

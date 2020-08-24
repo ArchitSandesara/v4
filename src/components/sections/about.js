@@ -5,7 +5,7 @@ import sr from '@utils/sr';
 import { srConfig, github } from '@config';
 import styled from 'styled-components';
 import { theme, mixins, media, Section, Heading } from '@styles';
-const { colors, fontSizes, fonts } = theme;
+const { colors, fontSizes } = theme;
 
 const StyledContainer = styled(Section)`
   position: relative;
@@ -35,15 +35,14 @@ const Skill = styled.li`
   position: relative;
   margin-bottom: 10px;
   padding-left: 20px;
-  font-family: ${fonts.SFMono};
-  font-size: ${fontSizes.lg};
+  font-size: ${fontSizes.md};
   color: ${colors.slate};
   &:before {
     content: '▹';
     position: absolute;
     left: 0;
     color: ${colors.green};
-    font-size: ${fontSizes.sm};
+    font-size: ${fontSizes.md};
     line-height: 12px;
   }
 `;

@@ -17,9 +17,10 @@ tech:
   - Scrum
   - MVC
   - MVVM
-  - MVP
-  - Espresso
   - Git / Github
+  - Espresso
+  - MVP
+
 showInProjects: true
 ---
 

@@ -5,7 +5,23 @@ cover: './healow.jpg'
 github: ''
 external: 'https://play.google.com/store/apps/details?id=com.ecw.healow&hl=en_US'
 tech:
-
+  - Android SDK
+  - Java
+  - Kotlin
+  - C++
+  - SQL
+  - GCP
+  - Agile
+  - RxJava
+  - Firebase
+  - RESTful APIs
+  - JUnit
+  - Jira
+  - Material Design
+  - Git SVN
+  - Retrofit
+  - OkHttp
+  -
 showInProjects: true
 ---
 

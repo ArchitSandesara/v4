@@ -8,7 +8,7 @@ const { colors, fontSizes, fonts } = theme;
 
 const StyledContainer = styled(Section)`
   position: relative;
-  max-width: 700px;
+  max-width: 750px;
 `;
 const StyledTabs = styled.div`
   display: flex;
@@ -144,7 +144,7 @@ const StyledCompany = styled.span`
 `;
 const StyledJobDetails = styled.h5`
   font-family: ${fonts.SFMono};
-  font-size: ${fontSizes.lg};
+  font-size: ${fontSizes.xl};
   font-weight: normal;
   letter-spacing: 0.05em;
   color: ${colors.lightSlate};

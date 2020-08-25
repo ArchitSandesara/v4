@@ -4,9 +4,9 @@ title: 'Data Mining and Machine Learning with Weka'
 github: ''
 external: ''
 tech:
-  - Jekyll
-  - SCSS
-  - JS
+  - Weka
+  - Data Cleansing Mining
+  - Classifiers
 showInProjects: true
 ---
 

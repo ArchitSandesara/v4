@@ -1,5 +1,5 @@
 ---
-date: '2018-12-29'
+date: '2017-12-01'
 title: 'healow Kids'
 github: ''
 external: 'https://play.google.com/store/apps/details?id=com.ecw.healowkids&hl=en'
@@ -7,6 +7,7 @@ tech:
   - React Native
   - Material Design
   - SQL
+company: 'eClinicalWorks'
 showInProjects: true
 ---
 

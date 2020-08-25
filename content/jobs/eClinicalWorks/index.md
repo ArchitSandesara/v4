@@ -4,7 +4,7 @@ title: 'Software Developer'
 company: 'eClinicalWorks'
 location: 'Ahmedabad,India'
 range: 'Feb 2015 - Dec 2017'
-url: 'https://web.northeastern.edu/scout/'
+url: 'https://www.eclinicalworks.com/'
 ---
 
 - Developed and managed mobile applications used 35K+ users.

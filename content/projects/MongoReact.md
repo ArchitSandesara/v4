@@ -13,4 +13,4 @@ company: 'ClearCable'
 showInProjects: true
 ---
 
-A media streaming proposal for data gathering and mining purpose, built with LoopBack, Python, and MongoDB.
+A technical proposal for media streaming application data gathering and data mining, built with LoopBack, Python, and MongoDB.

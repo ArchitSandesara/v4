@@ -4,9 +4,12 @@ title: 'healow Mom'
 github: ''
 external: 'https://play.google.com/store/apps/details?id=com.ecw.healowmom&hl=en_CA'
 tech:
-  -
-  - JS
-  - SCSS
+  - Android Studio
+  - Java
+  - SQL
+  - GCP
+  - Firebase
+  - RESTful APIs
 company: 'eClinicalWorks'
 showInProjects: true
 ---

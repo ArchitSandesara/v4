@@ -1,15 +1,15 @@
 ---
 date: '2016-11-01'
-title: 'Data Visualization with IBM Watson and Microsoft Power BI'
+title: 'Data Visualization Graphs'
 github: ''
-external: 'https://starry.com/blog/product/whats-new-screentime-just-got-better-for-parents'
-android: 'https://play.google.com/store/apps/details?id=com.starry.management&hl=en_US'
+external: ''
 tech:
-  - Cordova
-  - Backbone
-  - Marionette
-company: 'Starry'
+  - IBM Watson
+  - Microsoft Power BI
+  - AWS
+  - Docker
+company: ''
 showInProjects: true
 ---
 
-Starry Station android app feature that provided users with the ability to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their phones.
+Data Visualization Graphs are created using IBM Watson Analytics Tool and Microsoft Power BI tool. Used AWS, Microsoft Azure and Docker as platform as a service PAAS.

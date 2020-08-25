@@ -8,10 +8,10 @@ tech:
   - Node.js
   - React
   - JavaScript
-  - Express
   - HTML
   - CSS
   - GraphQL
+  - TypeScript
   - ElasticSearch
   - Agile
   - Jira

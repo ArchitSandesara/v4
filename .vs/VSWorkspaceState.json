@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\featured\\ecwNC",
-    "\\content\\featured\\healow",
+    "\\content\\jobs\\eClinicalWorks",
+    "\\content\\jobs\\Lambton",
+    "\\content\\jobs\\RBC",
     "\\content\\projects",
     "\\src",
-    "\\src\\components",
-    "\\src\\components\\sections",
+    "\\src\\images",
     "\\src\\pages",
-    "\\src\\styles"
+    "\\static\\slides"
   ],
-  "SelectedNode": "\\content\\projects\\MongoReact.md",
+  "SelectedNode": "\\src\\images\\og.png",
   "PreviewInSolutionExplorer": false
 }

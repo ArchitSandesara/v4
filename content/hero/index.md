@@ -1,7 +1,7 @@
 ---
 title: 'Hi, my name is'
 name: 'Archit Sandesara'
-subtitle: 'Data Scientist | Java | JavaScript | Full-stack | Front End | Back End | Android | Software Developement Engineer'
+subtitle: 'Data Scientist | Java | JavaScript | Full-stack | Front End | Back End | Android | Software Development Engineer'
 buttonText: 'Get In Touch'
 skills:
   - Computer Programming and Coding

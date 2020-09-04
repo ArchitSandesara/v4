@@ -2,14 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\jobs\\eClinicalWorks",
-    "\\content\\jobs\\Lambton",
-    "\\content\\jobs\\RBC",
     "\\content\\projects",
     "\\src",
     "\\src\\images",
-    "\\src\\pages",
-    "\\static\\slides"
+    "\\src\\pages"
   ],
   "SelectedNode": "\\src\\images\\og.png",
   "PreviewInSolutionExplorer": false

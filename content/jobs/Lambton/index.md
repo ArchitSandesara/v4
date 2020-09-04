@@ -3,7 +3,7 @@ date: '2018-06-01'
 title: 'Research Assistant'
 company: 'Lambton College'
 location: 'Toronto, ON'
-range: 'June - Dec 2018'
+range: '2018'
 url: 'https://https://www.lambtoncollege.ca/'
 ---
 

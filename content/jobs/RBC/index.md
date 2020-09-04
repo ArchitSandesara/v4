@@ -1,9 +1,9 @@
 ---
-date: '2019-05-01'
+date: '2019-09-01'
 title: 'Data Scientist / SDE'
 company: 'RBC Royal Bank'
 location: 'Toronto, ON'
-range: 'May 2019 - Sept 2019'
+range: '2019'
 url: 'https://www.rbcroyalbank.com/personal.html'
 ---
 

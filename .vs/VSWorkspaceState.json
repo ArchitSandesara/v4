@@ -2,13 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\jobs\\Consulero",
+    "\\content\\jobs",
     "\\content\\jobs\\eClinicalWorks",
-    "\\content\\jobs\\Lambton",
-    "\\content\\jobs\\RBC",
     "\\src",
     "\\src\\pages"
   ],
-  "SelectedNode": "\\content\\jobs",
+  "SelectedNode": "\\content\\jobs\\eClinicalWorks\\index.md",
   "PreviewInSolutionExplorer": false
 }

@@ -3,7 +3,7 @@ date: '2015-02-02'
 title: 'Software Developer'
 company: 'eClinicalWorks'
 location: 'Ahmedabad,India'
-range: '2015 - 2017'
+range: '2015 - 2018'
 url: 'https://www.eclinicalworks.com/'
 ---
 

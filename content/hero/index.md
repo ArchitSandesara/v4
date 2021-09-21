@@ -15,4 +15,4 @@ skills:
   - Continuous Integration and Continuous Delivery CI/CD
 ---
 
-Software developer with industry experience building large scale websites, web and mobile applications. Feel free to take a look at my work or get in touch!
+5 years of professional work experience in Software Development Engineering and knowledge of data structures, algorithms, databases, programming, and scripting languages. Participating in the whole software development lifecycle and following agile methodologies. Feel free to take a look at my work or get in touch!

@@ -7,4 +7,4 @@ range: '2018'
 url: 'https://https://www.lambtoncollege.ca/'
 ---
 
-- Investigated complex technical issues, regarding live streaming application using technical proposal.
+- Investigated complex technical issues, regarding live streaming application using <b>technical proposal</b>.

@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from 'react';
-import PropTypes from 'prop-types';
-import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import { email } from '@config';
+import { media, mixins, Section, theme } from '@styles';
+import PropTypes from 'prop-types';
+import React, { useEffect, useState } from 'react';
+import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
-import { theme, mixins, media, Section } from '@styles';
 const { colors, fontSizes, fonts, navDelay, loaderDelay } = theme;
 
 const StyledContainer = styled(Section)`
@@ -47,7 +47,7 @@ const StyledSubtitle = styled.h3`
 const StyledDescription = styled.div`
   margin-top: 25px;
   width: 50%;
-  max-width: 500px;
+  max-width: 660px;
   a {
     ${mixins.inlineLink};
   }

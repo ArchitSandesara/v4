@@ -1,14 +1,14 @@
-import React, { Component } from 'react';
-import { Link } from 'gatsby';
-import Helmet from 'react-helmet';
-import PropTypes from 'prop-types';
-import { CSSTransition, TransitionGroup } from 'react-transition-group';
-import { throttle } from '@utils';
-import { navLinks, navHeight } from '@config';
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
+import { navHeight, navLinks } from '@config';
+import { media, mixins, theme } from '@styles';
+import { throttle } from '@utils';
+import { Link } from 'gatsby';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
+import Helmet from 'react-helmet';
+import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
-import { theme, mixins, media } from '@styles';
 const { colors, fontSizes, fonts, loaderDelay } = theme;
 
 const StyledContainer = styled.header`
@@ -153,11 +153,11 @@ const StyledListItem = styled.li`
 const StyledListLink = styled(Link)`
   padding: 12px 10px;
 `;
-// const StyledResumeButton = styled.a`
-//   ${mixins.smallButton};
-//   margin-left: 10px;
-//   font-size: ${fontSizes.smish};
-// `;
+const StyledResumeButton = styled.a`
+  ${mixins.smallButton};
+  margin-left: 10px;
+  font-size: ${fontSizes.smish};
+`;
 
 const DELTA = 5;
 
@@ -292,13 +292,16 @@ class Nav extends Component {
             <TransitionGroup component={null}>
               {isMounted && (
                 <CSSTransition classNames={fadeDownClass} timeout={timeout}>
-                  <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
-                    {/* <StyledResumeButton
-                      href="/resume.pdf"
+                  <div
+                    style={{
+                      transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms`,
+                    }}>
+                    <StyledResumeButton
+                      href="/Resume_Archit_Developer.pdf"
                       target="_blank"
                       rel="nofollow noopener noreferrer">
                       Resume
-                    </StyledResumeButton> */}
+                    </StyledResumeButton>
                   </div>
                 </CSSTransition>
               )}

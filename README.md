@@ -41,7 +41,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    npm install -g gatsby-cli
    ```
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm) (Nodejs 20.19.2)
 
    ```sh
    nvm install
@@ -50,7 +50,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
 3. Install dependencies
 
    ```sh
-   yarn
+   npm install --legacy-peer-deps
    ```
 
 4. Start the development server
@@ -58,6 +58,13 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    ```sh
    npm start
    ```
+
+5. If not able to start the server on local
+
+   gatsby clean
+   Delete node_modules and package-lock.json
+   Run npm install --legacy-peer-deps
+   npm start
 
 ## 🚀 Building and Running for Production
 

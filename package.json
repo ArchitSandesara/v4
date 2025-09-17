@@ -1,11 +1,11 @@
 {
   "name": "v4",
   "description": "Personal Website V4",
-  "version": "1.0.1",
-  "author": "Archit Sandesara <brittany.chiang@gmail.com>",
+  "version": "1.0.2",
+  "author": "Archit Sandesara <sandesara.archit@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/ArchitSandesara/v4"
   },
   "keywords": [
     "gatsby"

@@ -3,7 +3,7 @@ date: '2021-11-20'
 title: 'Senior Full Stack Developer'
 company: 'RBC Royal Bank'
 location: 'Toronto, ON'
-range: '2021-Present'
+range: '2021-2025'
 url: 'https://www.rbcroyalbank.com/personal.html'
 ---
 
